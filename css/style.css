@@ -739,16 +739,18 @@ header .container .mobile-shop-cart a i {
   transform: scale(1.1);
 }
 .second-parallex .big-background .content .text {
-  font-size: 42px;
+  font-size: 65px;
   line-height: normal;
   letter-spacing: 0.02em;
   font-family: "PT Serif", serif;
   text-transform: capitalize;
   color: #fff;
   width: 806px;
-  top: 363px;
+  top: 480px;
   position: absolute;
   text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .second-parallex .small-background {
   position: relative;
