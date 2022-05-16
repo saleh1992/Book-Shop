@@ -770,15 +770,15 @@ header .container .mobile-shop-cart a i {
 .second-parallex .small-background .content {
   position: absolute;
   z-index: 40;
-  top: 1%;
+  top: 3%;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
 }
 .second-parallex .small-background .content .discount {
-  font-size: 64px;
+  font-size: 83.5px;
   line-height: 105px;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
   font-weight: bolder;
   text-transform: uppercase;
   color: #9f8447;
