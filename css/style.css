@@ -558,7 +558,7 @@ header .container .mobile-shop-cart a i {
 }
 .box-section .container .boxs-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(277px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
   gap: 30px;
   justify-content: center;
   align-items: center;
@@ -687,7 +687,7 @@ header .container .mobile-shop-cart a i {
 .second-parallex .container {
   display: flex;
   margin-bottom: 60px;
-  gap: 30px;
+  justify-content: space-between;
 }
 @media (max-width: 1281px) {
   .second-parallex .container {
@@ -705,6 +705,7 @@ header .container .mobile-shop-cart a i {
   position: relative;
   overflow: hidden;
   height: 100%;
+  width: 65%;
 }
 .second-parallex .small-background img,
 .second-parallex .big-background img {
@@ -756,6 +757,7 @@ header .container .mobile-shop-cart a i {
   justify-content: center;
   align-items: center;
   background: white;
+  width: 30%;
 }
 .second-parallex .small-background .small-img {
   border: 4px solid var(--main-color);
