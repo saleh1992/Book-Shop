@@ -558,7 +558,7 @@ header .container .mobile-shop-cart a i {
 }
 .box-section .container .boxs-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(305px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 30px;
   justify-content: center;
   align-items: center;
