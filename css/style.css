@@ -772,13 +772,13 @@ header .container .mobile-shop-cart a i {
 .second-parallex .small-background .content {
   position: absolute;
   z-index: 40;
-  top: 3%;
+  top: 0%;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
 }
 .second-parallex .small-background .content .discount {
-  font-size: 83.5px;
+  font-size: 62px;
   line-height: 105px;
   letter-spacing: 0.03em;
   font-weight: bolder;
